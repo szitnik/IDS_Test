@@ -1,7 +1,7 @@
-# Developed by johnathan solely!
+# Developed by johnathan and developer B
 import sys, string, sklearn
 
 def main():
-  print("Hellou my program!")
+  print("Heyllou my program!")
 
 print("END")
